@@ -42,7 +42,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1>Emoji Interpreter</h1>
+      <h1>Emoji Interpreter App</h1>
 
       <input style={{ padding: "1rem" }} onChange={emojiInputHandler} />
 
